@@ -74,7 +74,7 @@
 
 ---
 
-## 🎮 Fun Game (Snake Eating My Contributions 😆)
+## 🎮 Eating My Contributions 😆
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Chandan-kushwaha01/Chandan-kushwaha01/output/snake.svg" />
