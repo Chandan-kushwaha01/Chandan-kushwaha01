@@ -4,9 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI+%26+SaaS+Builder;Laravel+%7C+Node.js+%7C+Next.js;Exploring+Systems+%26+Scalable+Architecture" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
 
 ---
 
@@ -80,7 +77,7 @@
 ## 🎮 Fun Game (Snake Eating My Contributions 😆)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Chandan-kushwaha01/Chandan-kushwaha01/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
